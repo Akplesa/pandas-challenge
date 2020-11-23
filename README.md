@@ -4,37 +4,34 @@
 Analyzing the data for a fantasy game "Heroes of Pymoli".
 Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. I generated a report that breaks down the game's purchasing data into meaningful insights. Using Pandas Library and jupyter notebook I have evaluated the following:
 
-* Total Number of Players
+*[X] Total Number of Players
 
 
-* Purchasing Analysis (Total)
+*[X] Purchasing Analysis (Total)
 
-* [X] Number of Unique Items
-- Average Purchase Price
-- Total Number of Purchases
-- Total Revenue
-
-
-*Gender Demographics
-
-** Percentage and Count of Male Players
-** Percentage and Count of Female Players
-** Percentage and Count of Other / Non-Disclosed
+ *  Number of Unique Items
+ * Average Purchase Price
+ * Total Number of Purchases
+ * Total Revenue
 
 
-*Purchasing Analysis (Gender)
+*[X] Gender Demographics
 
-** The below each broken by gender
-
-Purchase Count
-Average Purchase Price
-Total Purchase Value
-Average Purchase Total per Person by Gender
+ * Percentage and Count of Male Players
+ * Percentage and Count of Female Players
+ * Percentage and Count of Other / Non-Disclosed
 
 
+*[X] Purchasing Analysis (Gender)
+
+ * The below each broken by gender
+ * Purchase Count
+ * Average Purchase Price
+ * Total Purchase Value
+ * Average Purchase Total per Person by Gender
 
 
-Age Demographics
+*[X] Age Demographics
 
 The below each broken into bins of 4 years (i.e. <10, 10-14, 15-19, etc.)
 
