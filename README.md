@@ -9,10 +9,10 @@ Like many others in its genre, the game is free-to-play, but players are encoura
 
 * Purchasing Analysis (Total)
 
-** Number of Unique Items
-** Average Purchase Price
-** Total Number of Purchases
-** Total Revenue
+- Number of Unique Items
+- Average Purchase Price
+- Total Number of Purchases
+- Total Revenue
 
 
 *Gender Demographics
