@@ -4,7 +4,7 @@
 Analyzing the data for a fantasy game "Heroes of Pymoli".
 Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. I generated a report that breaks down the game's purchasing data into meaningful insights. Using Pandas Library and jupyter notebook I have evaluated the following:
 
-*[X] Total Number of Players
+* [X] Total Number of Players
 
 
 *[X] Purchasing Analysis (Total)
