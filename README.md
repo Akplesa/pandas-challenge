@@ -33,7 +33,7 @@ Like many others in its genre, the game is free-to-play, but players are encoura
 
 * [X] **Age Demographics**
 
-**The below each broken into bins of 4 years (i.e. <10, 10-14, 15-19, etc.)
+**The below each broken into bins of 4 years (i.e. <10, 10-14, 15-19, etc.)**
 
 * Purchase Count
 * Average Purchase Price
